@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Integration</AssemblyName>
+    <RootNamespace>Azure101.Integration</RootNamespace>
+    <Description>Azure Integration Services - API Management, Functions, Logic Apps</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

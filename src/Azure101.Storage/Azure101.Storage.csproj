@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Storage</AssemblyName>
+    <RootNamespace>Azure101.Storage</RootNamespace>
+    <Description>Azure Storage Services - Blobs, Files, Queues, Tables, ADLS</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

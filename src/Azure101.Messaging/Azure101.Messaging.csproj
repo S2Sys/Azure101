@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Messaging</AssemblyName>
+    <RootNamespace>Azure101.Messaging</RootNamespace>
+    <Description>Azure Messaging Services - Service Bus, Event Hubs, Event Grid</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

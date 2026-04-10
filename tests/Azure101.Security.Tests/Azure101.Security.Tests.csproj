@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Security.Tests</AssemblyName>
+    <RootNamespace>Azure101.Security.Tests</RootNamespace>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Azure101.Security\Azure101.Security.csproj" />
+    <ProjectReference Include="..\..\src\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

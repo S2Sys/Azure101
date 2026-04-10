@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Compute</AssemblyName>
+    <RootNamespace>Azure101.Compute</RootNamespace>
+    <Description>Azure Compute Services - VMs, App Service, ACI, AKS, Functions, Batch</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

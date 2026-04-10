@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Databases</AssemblyName>
+    <RootNamespace>Azure101.Databases</RootNamespace>
+    <Description>Azure Database Services - SQL, Cosmos DB, MySQL, PostgreSQL, Redis</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Security</AssemblyName>
+    <RootNamespace>Azure101.Security</RootNamespace>
+    <Description>Azure Security Services - Key Vault, App Config, Managed Identity, RBAC</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

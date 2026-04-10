@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Core</AssemblyName>
+    <RootNamespace>Azure101.Core</RootNamespace>
+    <Description>Core utilities, helpers, and shared infrastructure for Azure101</Description>
+  </PropertyGroup>
+
+</Project>

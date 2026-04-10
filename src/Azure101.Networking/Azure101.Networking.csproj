@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.Networking</AssemblyName>
+    <RootNamespace>Azure101.Networking</RootNamespace>
+    <Description>Azure Networking Services - VNets, LB, AppGateway, CDN, etc.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

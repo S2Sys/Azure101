@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.DevOps</AssemblyName>
+    <RootNamespace>Azure101.DevOps</RootNamespace>
+    <Description>Azure DevOps & Monitoring - App Insights, Log Analytics, Pipelines</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>

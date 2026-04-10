@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Azure101.AI_ML</AssemblyName>
+    <RootNamespace>Azure101.AI_ML</RootNamespace>
+    <Description>Azure AI & ML Services - Cognitive Services, OpenAI, Machine Learning</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Azure101.Core\Azure101.Core.csproj" />
+  </ItemGroup>
+
+</Project>
