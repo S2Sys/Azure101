@@ -51,9 +51,10 @@ API management, serverless functions, and enterprise integration.
 - [Integration Wiki](services/Integration.md) - Complete guide to integration
 - API Management, Functions, Service Bus, Logic Apps
 
-#### 10. **Data & Analytics** (Coming Soon)
+#### 10. **Data & Analytics**
 Big data processing and analytics services.
-- Data Lake Storage, Synapse, Databricks, Stream Analytics, Power BI
+- [Data & Analytics Wiki](services/DataAnalytics.md) - Complete guide to data services
+- Data Lake Storage, Synapse, Databricks, Stream Analytics, Data Explorer
 
 ---
 
